@@ -15,7 +15,7 @@ Olá! Me chamo Alice e tenho 18 anos. Desde nova tenho interesse em tecnologia e
 
 ☁️ **AWS Student Builder Group SENAI CIMATEC:** Membro da Trilha Cloud Discovery 
 
-💼 **Trainee CIMATEC JR** 
+💼 **Trainee CIMATEC jr** 
 
 <br clear="right"/>
 
