@@ -9,7 +9,7 @@
 ### 🧠 Quem sou eu?
 
 🎓 Graduanda em **Engenharia da Computação**  
-→ SENAI CIMATEC, 1° semestre
+→ SENAI CIMATEC, 2° semestre
 
 Olá! Me chamo Alice e tenho 18 anos. Desde nova tenho interesse em tecnologia e sempre realizei olimpíadas que estimulassem raciocínio lógico e desenvolvimento pessoal. Sou criativa e sempre busco me empenhar e dar meu melhor em tudo o que me proponho a fazer!💜
 
